@@ -7,8 +7,8 @@
 
 <div align="center">
 
-<img src=/img/1.png width=45%>
-<img src=/img/2.png width=45%>
+<img src=/img/1.png width=25%>
+<img src=/img/2.png width=35%>
 
 </div>
 
@@ -28,6 +28,6 @@
 
 <div align="center">
 
-<img src=/img/6.png width=45%>
+<img src=/img/6.png width=65%>
 
 </div>
